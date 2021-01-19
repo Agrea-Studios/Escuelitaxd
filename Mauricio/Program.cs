@@ -12,8 +12,8 @@ namespace Mauricio
             Double r1;
             Double rf;
             r = Convert.ToDouble(Console.ReadLine());
-            r1 = r * pi;
-            rf = r1 * r1;
+            r1 = r * r;
+            rf = r1 * pi;
             Console.WriteLine("El area es:"+ rf);
 
         }
