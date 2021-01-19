@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8sqMBNY2igfRCV0GPurPRYdgg9KXTZDHKKPnsRWnWFn71xUvOKxzCpv6DZ7jcZmyBjyeTOLul7qkQkGtB9r8Hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\Consolador\\Consolador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crojas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

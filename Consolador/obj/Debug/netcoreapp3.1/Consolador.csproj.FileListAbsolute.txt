@@ -1,0 +1,13 @@
+C:\Users\crojas\Desktop\Programacion\Consolador\obj\Debug\netcoreapp3.1\Consolador.csprojAssemblyReference.cache
+C:\Users\crojas\Desktop\Programacion\Consolador\obj\Debug\netcoreapp3.1\Consolador.AssemblyInfoInputs.cache
+C:\Users\crojas\Desktop\Programacion\Consolador\obj\Debug\netcoreapp3.1\Consolador.AssemblyInfo.cs
+C:\Users\crojas\Desktop\Programacion\Consolador\obj\Debug\netcoreapp3.1\Consolador.csproj.CoreCompileInputs.cache
+C:\Users\crojas\Desktop\Programacion\Consolador\bin\Debug\netcoreapp3.1\Consolador.exe
+C:\Users\crojas\Desktop\Programacion\Consolador\bin\Debug\netcoreapp3.1\Consolador.deps.json
+C:\Users\crojas\Desktop\Programacion\Consolador\bin\Debug\netcoreapp3.1\Consolador.runtimeconfig.json
+C:\Users\crojas\Desktop\Programacion\Consolador\bin\Debug\netcoreapp3.1\Consolador.runtimeconfig.dev.json
+C:\Users\crojas\Desktop\Programacion\Consolador\bin\Debug\netcoreapp3.1\Consolador.dll
+C:\Users\crojas\Desktop\Programacion\Consolador\bin\Debug\netcoreapp3.1\Consolador.pdb
+C:\Users\crojas\Desktop\Programacion\Consolador\obj\Debug\netcoreapp3.1\Consolador.dll
+C:\Users\crojas\Desktop\Programacion\Consolador\obj\Debug\netcoreapp3.1\Consolador.pdb
+C:\Users\crojas\Desktop\Programacion\Consolador\obj\Debug\netcoreapp3.1\Consolador.genruntimeconfig.cache
