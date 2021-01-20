@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\consolita.csproj",
-      "projectName": "consolita",
-      "projectPath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\consolita.csproj",
+      "projectUniqueName": "C:\\Users\\crojas\\source\\repos\\tarea chidoris\\tarea chida\\tarea chida.csproj",
+      "projectName": "tarea chida",
+      "projectPath": "C:\\Users\\crojas\\source\\repos\\tarea chidoris\\tarea chida\\tarea chida.csproj",
       "packagesPath": "C:\\Users\\crojas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\obj\\",
+      "outputPath": "C:\\Users\\crojas\\source\\repos\\tarea chidoris\\tarea chida\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
