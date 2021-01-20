@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj": {}
+    "C:\\Users\\Familiar\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj": {
+    "C:\\Users\\Familiar\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj",
+        "projectUniqueName": "C:\\Users\\Familiar\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj",
         "projectName": "segundo intento",
-        "projectPath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj",
-        "packagesPath": "C:\\Users\\crojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\obj\\",
+        "projectPath": "C:\\Users\\Familiar\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj",
+        "packagesPath": "C:\\Users\\Familiar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Familiar\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\crojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Familiar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,18 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
