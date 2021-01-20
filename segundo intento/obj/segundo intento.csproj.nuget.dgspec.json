@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\consolita.csproj": {}
+    "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\consolita.csproj": {
+    "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\consolita.csproj",
-        "projectName": "consolita",
-        "projectPath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\consolita.csproj",
+        "projectUniqueName": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj",
+        "projectName": "segundo intento",
+        "projectPath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj",
         "packagesPath": "C:\\Users\\crojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\obj\\",
+        "outputPath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crojas\\AppData\\Roaming\\NuGet\\NuGet.Config",

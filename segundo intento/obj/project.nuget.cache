@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bg85772e+t+JOQMVjQTAOr2buI/VWFEKLLz8bqgH4EbFEE+dSsq1AeLjkqaImbNLSKI2lvMJUlZFS7vu+o7oiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crojas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
