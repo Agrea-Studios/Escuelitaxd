@@ -11,3 +11,16 @@ C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Mauricio\bin\De
 C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Mauricio\obj\Debug\netcoreapp3.1\Mauricio.dll
 C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Mauricio\obj\Debug\netcoreapp3.1\Mauricio.pdb
 C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Mauricio\obj\Debug\netcoreapp3.1\Mauricio.genruntimeconfig.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Mauricio\bin\Debug\netcoreapp3.1\Mauricio.exe
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Mauricio\bin\Debug\netcoreapp3.1\Mauricio.deps.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Mauricio\bin\Debug\netcoreapp3.1\Mauricio.runtimeconfig.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Mauricio\bin\Debug\netcoreapp3.1\Mauricio.runtimeconfig.dev.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Mauricio\bin\Debug\netcoreapp3.1\Mauricio.dll
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Mauricio\bin\Debug\netcoreapp3.1\Mauricio.pdb
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Mauricio\obj\Debug\netcoreapp3.1\Mauricio.csprojAssemblyReference.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Mauricio\obj\Debug\netcoreapp3.1\Mauricio.AssemblyInfoInputs.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Mauricio\obj\Debug\netcoreapp3.1\Mauricio.AssemblyInfo.cs
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Mauricio\obj\Debug\netcoreapp3.1\Mauricio.csproj.CoreCompileInputs.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Mauricio\obj\Debug\netcoreapp3.1\Mauricio.dll
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Mauricio\obj\Debug\netcoreapp3.1\Mauricio.pdb
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Mauricio\obj\Debug\netcoreapp3.1\Mauricio.genruntimeconfig.cache

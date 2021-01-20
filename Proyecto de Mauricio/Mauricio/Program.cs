@@ -6,15 +6,23 @@ namespace Mauricio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ingresa un valor:");
-            Double pi = 3.1416;
             Double r;
+            Console.WriteLine("Ingresa un radio para que el valor del área del círculo sea 78.54:");
+            r = Convert.ToDouble(Console.ReadLine());
+            Double pi = 3.1416;
             Double r1;
             Double rf;
-            r = Convert.ToDouble(Console.ReadLine());
+            Double r2,rf2,x=5;
+            r2 = x * x;
+            rf2 = r2 * pi; 
             r1 = r * r;
             rf = r1 * pi;
-            Console.WriteLine("El area es:"+ rf);
+            if(rf == rf2){ Console.WriteLine("Felicidades, acertaste.");
+
+            }
+            else{
+                Console.WriteLine("Lo siento, tú resultado no es el correcto.");
+            }
 
         }
     }

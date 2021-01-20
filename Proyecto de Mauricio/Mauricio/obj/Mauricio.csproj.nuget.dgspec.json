@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zep28\\OneDrive\\Desktop\\Proyecto\\Repositorio\\Escuelitaxd\\Mauricio\\Mauricio.csproj": {}
+    "C:\\Users\\zep28\\OneDrive\\Desktop\\Proyecto\\Repositorio\\Escuelitaxd\\Proyecto de Mauricio\\Mauricio\\Mauricio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zep28\\OneDrive\\Desktop\\Proyecto\\Repositorio\\Escuelitaxd\\Mauricio\\Mauricio.csproj": {
+    "C:\\Users\\zep28\\OneDrive\\Desktop\\Proyecto\\Repositorio\\Escuelitaxd\\Proyecto de Mauricio\\Mauricio\\Mauricio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zep28\\OneDrive\\Desktop\\Proyecto\\Repositorio\\Escuelitaxd\\Mauricio\\Mauricio.csproj",
+        "projectUniqueName": "C:\\Users\\zep28\\OneDrive\\Desktop\\Proyecto\\Repositorio\\Escuelitaxd\\Proyecto de Mauricio\\Mauricio\\Mauricio.csproj",
         "projectName": "Mauricio",
-        "projectPath": "C:\\Users\\zep28\\OneDrive\\Desktop\\Proyecto\\Repositorio\\Escuelitaxd\\Mauricio\\Mauricio.csproj",
+        "projectPath": "C:\\Users\\zep28\\OneDrive\\Desktop\\Proyecto\\Repositorio\\Escuelitaxd\\Proyecto de Mauricio\\Mauricio\\Mauricio.csproj",
         "packagesPath": "C:\\Users\\zep28\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zep28\\OneDrive\\Desktop\\Proyecto\\Repositorio\\Escuelitaxd\\Mauricio\\obj\\",
+        "outputPath": "C:\\Users\\zep28\\OneDrive\\Desktop\\Proyecto\\Repositorio\\Escuelitaxd\\Proyecto de Mauricio\\Mauricio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zep28\\AppData\\Roaming\\NuGet\\NuGet.Config"
