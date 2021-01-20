@@ -11,3 +11,16 @@ C:\Users\crojas\source\repos\segundo intento\bin\Debug\netcoreapp3.1\segundo int
 C:\Users\crojas\source\repos\segundo intento\obj\Debug\netcoreapp3.1\segundo intento.dll
 C:\Users\crojas\source\repos\segundo intento\obj\Debug\netcoreapp3.1\segundo intento.pdb
 C:\Users\crojas\source\repos\segundo intento\obj\Debug\netcoreapp3.1\segundo intento.genruntimeconfig.cache
+C:\Users\crojas\Documents\GitHub\Escuelitaxd\segundo intento\bin\Debug\netcoreapp3.1\segundo intento.exe
+C:\Users\crojas\Documents\GitHub\Escuelitaxd\segundo intento\bin\Debug\netcoreapp3.1\segundo intento.deps.json
+C:\Users\crojas\Documents\GitHub\Escuelitaxd\segundo intento\bin\Debug\netcoreapp3.1\segundo intento.runtimeconfig.json
+C:\Users\crojas\Documents\GitHub\Escuelitaxd\segundo intento\bin\Debug\netcoreapp3.1\segundo intento.runtimeconfig.dev.json
+C:\Users\crojas\Documents\GitHub\Escuelitaxd\segundo intento\bin\Debug\netcoreapp3.1\segundo intento.dll
+C:\Users\crojas\Documents\GitHub\Escuelitaxd\segundo intento\bin\Debug\netcoreapp3.1\segundo intento.pdb
+C:\Users\crojas\Documents\GitHub\Escuelitaxd\segundo intento\obj\Debug\netcoreapp3.1\segundo intento.csprojAssemblyReference.cache
+C:\Users\crojas\Documents\GitHub\Escuelitaxd\segundo intento\obj\Debug\netcoreapp3.1\segundo intento.AssemblyInfoInputs.cache
+C:\Users\crojas\Documents\GitHub\Escuelitaxd\segundo intento\obj\Debug\netcoreapp3.1\segundo intento.AssemblyInfo.cs
+C:\Users\crojas\Documents\GitHub\Escuelitaxd\segundo intento\obj\Debug\netcoreapp3.1\segundo intento.csproj.CoreCompileInputs.cache
+C:\Users\crojas\Documents\GitHub\Escuelitaxd\segundo intento\obj\Debug\netcoreapp3.1\segundo intento.dll
+C:\Users\crojas\Documents\GitHub\Escuelitaxd\segundo intento\obj\Debug\netcoreapp3.1\segundo intento.pdb
+C:\Users\crojas\Documents\GitHub\Escuelitaxd\segundo intento\obj\Debug\netcoreapp3.1\segundo intento.genruntimeconfig.cache
