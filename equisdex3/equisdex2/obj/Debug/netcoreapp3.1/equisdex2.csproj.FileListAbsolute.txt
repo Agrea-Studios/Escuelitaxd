@@ -1,0 +1,13 @@
+C:\Users\crojas\source\repos\equisdex3\equisdex2\bin\Debug\netcoreapp3.1\equisdex2.exe
+C:\Users\crojas\source\repos\equisdex3\equisdex2\bin\Debug\netcoreapp3.1\equisdex2.deps.json
+C:\Users\crojas\source\repos\equisdex3\equisdex2\bin\Debug\netcoreapp3.1\equisdex2.runtimeconfig.json
+C:\Users\crojas\source\repos\equisdex3\equisdex2\bin\Debug\netcoreapp3.1\equisdex2.runtimeconfig.dev.json
+C:\Users\crojas\source\repos\equisdex3\equisdex2\bin\Debug\netcoreapp3.1\equisdex2.dll
+C:\Users\crojas\source\repos\equisdex3\equisdex2\bin\Debug\netcoreapp3.1\equisdex2.pdb
+C:\Users\crojas\source\repos\equisdex3\equisdex2\obj\Debug\netcoreapp3.1\equisdex2.csprojAssemblyReference.cache
+C:\Users\crojas\source\repos\equisdex3\equisdex2\obj\Debug\netcoreapp3.1\equisdex2.AssemblyInfoInputs.cache
+C:\Users\crojas\source\repos\equisdex3\equisdex2\obj\Debug\netcoreapp3.1\equisdex2.AssemblyInfo.cs
+C:\Users\crojas\source\repos\equisdex3\equisdex2\obj\Debug\netcoreapp3.1\equisdex2.csproj.CoreCompileInputs.cache
+C:\Users\crojas\source\repos\equisdex3\equisdex2\obj\Debug\netcoreapp3.1\equisdex2.dll
+C:\Users\crojas\source\repos\equisdex3\equisdex2\obj\Debug\netcoreapp3.1\equisdex2.pdb
+C:\Users\crojas\source\repos\equisdex3\equisdex2\obj\Debug\netcoreapp3.1\equisdex2.genruntimeconfig.cache

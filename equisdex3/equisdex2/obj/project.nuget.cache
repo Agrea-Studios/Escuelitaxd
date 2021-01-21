@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kZlktJqMVvmnRgQtK7x+ne3fPrlItEAmrg4bQqEJTDJhe4aISmPVEyG8O4oz0iZRGEyk1EzKxhNhvof25UuGbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\equisdex3\\equisdex2\\equisdex2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crojas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
