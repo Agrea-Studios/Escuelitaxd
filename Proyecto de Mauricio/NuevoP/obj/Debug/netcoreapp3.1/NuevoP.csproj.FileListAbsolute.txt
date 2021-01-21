@@ -1,0 +1,13 @@
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\NuevoP\bin\Debug\netcoreapp3.1\NuevoP.exe
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\NuevoP\bin\Debug\netcoreapp3.1\NuevoP.deps.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\NuevoP\bin\Debug\netcoreapp3.1\NuevoP.runtimeconfig.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\NuevoP\bin\Debug\netcoreapp3.1\NuevoP.runtimeconfig.dev.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\NuevoP\bin\Debug\netcoreapp3.1\NuevoP.dll
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\NuevoP\bin\Debug\netcoreapp3.1\NuevoP.pdb
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\NuevoP\obj\Debug\netcoreapp3.1\NuevoP.csprojAssemblyReference.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\NuevoP\obj\Debug\netcoreapp3.1\NuevoP.AssemblyInfoInputs.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\NuevoP\obj\Debug\netcoreapp3.1\NuevoP.AssemblyInfo.cs
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\NuevoP\obj\Debug\netcoreapp3.1\NuevoP.csproj.CoreCompileInputs.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\NuevoP\obj\Debug\netcoreapp3.1\NuevoP.dll
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\NuevoP\obj\Debug\netcoreapp3.1\NuevoP.pdb
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\NuevoP\obj\Debug\netcoreapp3.1\NuevoP.genruntimeconfig.cache
