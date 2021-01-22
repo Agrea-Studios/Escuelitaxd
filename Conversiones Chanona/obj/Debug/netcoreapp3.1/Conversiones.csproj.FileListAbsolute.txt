@@ -1,0 +1,13 @@
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Conversiones\Conversiones\bin\Debug\netcoreapp3.1\Conversiones.exe
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Conversiones\Conversiones\bin\Debug\netcoreapp3.1\Conversiones.deps.json
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Conversiones\Conversiones\bin\Debug\netcoreapp3.1\Conversiones.runtimeconfig.json
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Conversiones\Conversiones\bin\Debug\netcoreapp3.1\Conversiones.runtimeconfig.dev.json
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Conversiones\Conversiones\bin\Debug\netcoreapp3.1\Conversiones.dll
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Conversiones\Conversiones\bin\Debug\netcoreapp3.1\Conversiones.pdb
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Conversiones\Conversiones\obj\Debug\netcoreapp3.1\Conversiones.csprojAssemblyReference.cache
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Conversiones\Conversiones\obj\Debug\netcoreapp3.1\Conversiones.AssemblyInfoInputs.cache
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Conversiones\Conversiones\obj\Debug\netcoreapp3.1\Conversiones.AssemblyInfo.cs
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Conversiones\Conversiones\obj\Debug\netcoreapp3.1\Conversiones.csproj.CoreCompileInputs.cache
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Conversiones\Conversiones\obj\Debug\netcoreapp3.1\Conversiones.dll
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Conversiones\Conversiones\obj\Debug\netcoreapp3.1\Conversiones.pdb
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Conversiones\Conversiones\obj\Debug\netcoreapp3.1\Conversiones.genruntimeconfig.cache

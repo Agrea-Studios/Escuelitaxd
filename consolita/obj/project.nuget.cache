@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6WDSSQ2IGnvDAOIbMHlNusxBLlrWNPD/EhZKNW2ZKtkQq4aIDWM5nKExdaMvJI/YFzBN3iBA9ObZ/J1yeyv3HA==",
+  "dgSpecHash": "EWAWknf4ht5NXkFFWa/P8IOO+pNXXRwssirrsRled7vrFxtoW/zFQ6XCReqwck76um2qZWA4Gy89cZeLg52VRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Familiar\\Desktop\\programacon escuela xd\\consolita\\consolita.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\consolita.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crojas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

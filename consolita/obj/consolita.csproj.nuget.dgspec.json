@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Familiar\\Desktop\\programacon escuela xd\\consolita\\consolita.csproj": {}
+    "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\consolita.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Familiar\\Desktop\\programacon escuela xd\\consolita\\consolita.csproj": {
+    "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\consolita.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Familiar\\Desktop\\programacon escuela xd\\consolita\\consolita.csproj",
+        "projectUniqueName": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\consolita.csproj",
         "projectName": "consolita",
-        "projectPath": "C:\\Users\\Familiar\\Desktop\\programacon escuela xd\\consolita\\consolita.csproj",
-        "packagesPath": "C:\\Users\\Familiar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Familiar\\Desktop\\programacon escuela xd\\consolita\\obj\\",
+        "projectPath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\consolita.csproj",
+        "packagesPath": "C:\\Users\\crojas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\consolita\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Familiar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\crojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
