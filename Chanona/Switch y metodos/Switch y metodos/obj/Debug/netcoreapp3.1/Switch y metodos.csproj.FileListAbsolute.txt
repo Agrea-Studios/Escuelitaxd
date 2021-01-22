@@ -1,0 +1,13 @@
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Switch y metodos\Switch y metodos\bin\Debug\netcoreapp3.1\Switch y metodos.exe
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Switch y metodos\Switch y metodos\bin\Debug\netcoreapp3.1\Switch y metodos.deps.json
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Switch y metodos\Switch y metodos\bin\Debug\netcoreapp3.1\Switch y metodos.runtimeconfig.json
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Switch y metodos\Switch y metodos\bin\Debug\netcoreapp3.1\Switch y metodos.runtimeconfig.dev.json
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Switch y metodos\Switch y metodos\bin\Debug\netcoreapp3.1\Switch y metodos.dll
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Switch y metodos\Switch y metodos\bin\Debug\netcoreapp3.1\Switch y metodos.pdb
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Switch y metodos\Switch y metodos\obj\Debug\netcoreapp3.1\Switch y metodos.csprojAssemblyReference.cache
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Switch y metodos\Switch y metodos\obj\Debug\netcoreapp3.1\Switch y metodos.AssemblyInfoInputs.cache
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Switch y metodos\Switch y metodos\obj\Debug\netcoreapp3.1\Switch y metodos.AssemblyInfo.cs
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Switch y metodos\Switch y metodos\obj\Debug\netcoreapp3.1\Switch y metodos.csproj.CoreCompileInputs.cache
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Switch y metodos\Switch y metodos\obj\Debug\netcoreapp3.1\Switch y metodos.dll
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Switch y metodos\Switch y metodos\obj\Debug\netcoreapp3.1\Switch y metodos.pdb
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\Switch y metodos\Switch y metodos\obj\Debug\netcoreapp3.1\Switch y metodos.genruntimeconfig.cache
