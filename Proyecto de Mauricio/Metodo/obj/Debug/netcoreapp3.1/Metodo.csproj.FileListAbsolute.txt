@@ -1,0 +1,13 @@
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Metodo\obj\Debug\netcoreapp3.1\Metodo.csprojAssemblyReference.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Metodo\obj\Debug\netcoreapp3.1\Metodo.AssemblyInfoInputs.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Metodo\obj\Debug\netcoreapp3.1\Metodo.AssemblyInfo.cs
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Metodo\obj\Debug\netcoreapp3.1\Metodo.csproj.CoreCompileInputs.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Metodo\bin\Debug\netcoreapp3.1\Metodo.exe
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Metodo\bin\Debug\netcoreapp3.1\Metodo.deps.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Metodo\bin\Debug\netcoreapp3.1\Metodo.runtimeconfig.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Metodo\bin\Debug\netcoreapp3.1\Metodo.runtimeconfig.dev.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Metodo\bin\Debug\netcoreapp3.1\Metodo.dll
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Metodo\bin\Debug\netcoreapp3.1\Metodo.pdb
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Metodo\obj\Debug\netcoreapp3.1\Metodo.dll
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Metodo\obj\Debug\netcoreapp3.1\Metodo.pdb
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Repositorio\Escuelitaxd\Proyecto de Mauricio\Metodo\obj\Debug\netcoreapp3.1\Metodo.genruntimeconfig.cache
