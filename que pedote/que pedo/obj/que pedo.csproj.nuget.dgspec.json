@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj": {}
+    "C:\\Users\\crojas\\source\\repos\\que pedote\\que pedo\\que pedo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj": {
+    "C:\\Users\\crojas\\source\\repos\\que pedote\\que pedo\\que pedo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj",
-        "projectName": "segundo intento",
-        "projectPath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\segundo intento.csproj",
+        "projectUniqueName": "C:\\Users\\crojas\\source\\repos\\que pedote\\que pedo\\que pedo.csproj",
+        "projectName": "que pedo",
+        "projectPath": "C:\\Users\\crojas\\source\\repos\\que pedote\\que pedo\\que pedo.csproj",
         "packagesPath": "C:\\Users\\crojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crojas\\Documents\\GitHub\\Escuelitaxd\\segundo intento\\obj\\",
+        "outputPath": "C:\\Users\\crojas\\source\\repos\\que pedote\\que pedo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
