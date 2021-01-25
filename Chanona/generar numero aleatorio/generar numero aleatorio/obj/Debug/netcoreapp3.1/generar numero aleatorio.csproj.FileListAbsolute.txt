@@ -1,0 +1,13 @@
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\generar numero aleatorio\generar numero aleatorio\bin\Debug\netcoreapp3.1\generar numero aleatorio.exe
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\generar numero aleatorio\generar numero aleatorio\bin\Debug\netcoreapp3.1\generar numero aleatorio.deps.json
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\generar numero aleatorio\generar numero aleatorio\bin\Debug\netcoreapp3.1\generar numero aleatorio.runtimeconfig.json
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\generar numero aleatorio\generar numero aleatorio\bin\Debug\netcoreapp3.1\generar numero aleatorio.runtimeconfig.dev.json
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\generar numero aleatorio\generar numero aleatorio\bin\Debug\netcoreapp3.1\generar numero aleatorio.dll
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\generar numero aleatorio\generar numero aleatorio\bin\Debug\netcoreapp3.1\generar numero aleatorio.pdb
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\generar numero aleatorio\generar numero aleatorio\obj\Debug\netcoreapp3.1\generar numero aleatorio.csprojAssemblyReference.cache
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\generar numero aleatorio\generar numero aleatorio\obj\Debug\netcoreapp3.1\generar numero aleatorio.AssemblyInfoInputs.cache
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\generar numero aleatorio\generar numero aleatorio\obj\Debug\netcoreapp3.1\generar numero aleatorio.AssemblyInfo.cs
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\generar numero aleatorio\generar numero aleatorio\obj\Debug\netcoreapp3.1\generar numero aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\generar numero aleatorio\generar numero aleatorio\obj\Debug\netcoreapp3.1\generar numero aleatorio.dll
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\generar numero aleatorio\generar numero aleatorio\obj\Debug\netcoreapp3.1\generar numero aleatorio.pdb
+C:\Users\carlo.LAPTOP-M6JSNEJ3\source\repos\generar numero aleatorio\generar numero aleatorio\obj\Debug\netcoreapp3.1\generar numero aleatorio.genruntimeconfig.cache
