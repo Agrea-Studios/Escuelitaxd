@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\crojas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\crojas\\.nuget\\packages"
+    ]
+  }
+}

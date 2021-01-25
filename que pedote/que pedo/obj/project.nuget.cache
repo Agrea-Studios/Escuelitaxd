@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6FwLKnJHMDI9J1Jxx23n0AMS0rVS7dXYfQf9ns7svhUDSk5ugkGAb86ZYY2Q3k8vPV6T6S7Yx1Mk6CC0Pmh4OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crojas\\source\\repos\\que pedote\\que pedo\\que pedo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crojas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

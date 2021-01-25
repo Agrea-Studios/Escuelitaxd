@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("segundo intento")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("que pedo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("segundo intento")]
-[assembly: System.Reflection.AssemblyTitleAttribute("segundo intento")]
+[assembly: System.Reflection.AssemblyProductAttribute("que pedo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("que pedo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
