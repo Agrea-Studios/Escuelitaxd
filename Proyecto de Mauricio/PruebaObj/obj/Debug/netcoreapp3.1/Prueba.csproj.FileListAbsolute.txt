@@ -1,0 +1,26 @@
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Mini proyectos\Prueba\bin\Debug\netcoreapp3.1\Prueba.exe
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Mini proyectos\Prueba\bin\Debug\netcoreapp3.1\Prueba.deps.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Mini proyectos\Prueba\bin\Debug\netcoreapp3.1\Prueba.runtimeconfig.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Mini proyectos\Prueba\bin\Debug\netcoreapp3.1\Prueba.runtimeconfig.dev.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Mini proyectos\Prueba\bin\Debug\netcoreapp3.1\Prueba.dll
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Mini proyectos\Prueba\bin\Debug\netcoreapp3.1\Prueba.pdb
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Mini proyectos\Prueba\obj\Debug\netcoreapp3.1\Prueba.csprojAssemblyReference.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Mini proyectos\Prueba\obj\Debug\netcoreapp3.1\Prueba.AssemblyInfoInputs.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Mini proyectos\Prueba\obj\Debug\netcoreapp3.1\Prueba.AssemblyInfo.cs
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Mini proyectos\Prueba\obj\Debug\netcoreapp3.1\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Mini proyectos\Prueba\obj\Debug\netcoreapp3.1\Prueba.dll
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Mini proyectos\Prueba\obj\Debug\netcoreapp3.1\Prueba.pdb
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Mini proyectos\Prueba\obj\Debug\netcoreapp3.1\Prueba.genruntimeconfig.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Proyecto de Mauricio\PruebaObj\obj\Debug\netcoreapp3.1\Prueba.csprojAssemblyReference.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Proyecto de Mauricio\PruebaObj\obj\Debug\netcoreapp3.1\Prueba.AssemblyInfoInputs.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Proyecto de Mauricio\PruebaObj\obj\Debug\netcoreapp3.1\Prueba.AssemblyInfo.cs
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Proyecto de Mauricio\PruebaObj\obj\Debug\netcoreapp3.1\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Proyecto de Mauricio\PruebaObj\obj\Debug\netcoreapp3.1\Prueba.dll
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Proyecto de Mauricio\PruebaObj\obj\Debug\netcoreapp3.1\Prueba.pdb
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Proyecto de Mauricio\PruebaObj\bin\Debug\netcoreapp3.1\Prueba.exe
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Proyecto de Mauricio\PruebaObj\bin\Debug\netcoreapp3.1\Prueba.deps.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Proyecto de Mauricio\PruebaObj\bin\Debug\netcoreapp3.1\Prueba.runtimeconfig.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Proyecto de Mauricio\PruebaObj\bin\Debug\netcoreapp3.1\Prueba.runtimeconfig.dev.json
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Proyecto de Mauricio\PruebaObj\bin\Debug\netcoreapp3.1\Prueba.dll
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Proyecto de Mauricio\PruebaObj\bin\Debug\netcoreapp3.1\Prueba.pdb
+C:\Users\zep28\OneDrive\Desktop\Proyecto\Proyecto de Mauricio\PruebaObj\obj\Debug\netcoreapp3.1\Prueba.genruntimeconfig.cache
